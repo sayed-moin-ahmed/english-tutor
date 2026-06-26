@@ -1,0 +1,33 @@
+SKILL.md
+  s_4ab611330a84d8::t_0c85fe08f5e990 1-110
+references/cheat-sheets.md
+  s_4ab611330a84d8::t_f0fe28d6c6c5f8 1-59
+references/common-patterns.md
+  s_4ab611330a84d8::t_a45e563e3fca46 1-56
+tile.json
+  s_a23055f8752d1c::t_d48088e8d1e8d6 1-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "4afa0aeb2d8b2f962de818aed477f5dc3be1ff3e",
+  "prompts": {},
+  "sessions": {
+    "s_4ab611330a84d8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5d4f6bd6-8f37-4be7-9db6-d5bef1212185",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "sayed <sayed.ahmed@nextory.com>"
+    },
+    "s_a23055f8752d1c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cbe4115d-bd7b-4917-8e10-a2af9c457799",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "sayed <sayed.ahmed@nextory.com>"
+    }
+  }
+}
