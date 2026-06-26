@@ -1,0 +1,11 @@
+{
+  "name": "local/english-tutor",
+  "version": "0.1.0",
+  "private": true,
+  "summary": "Use to help the user learn and improve their English — speaking, writing, grammar, vocabulary, listening/reading comprehension — at any level (beginner to advanced). A language-learning skill grounded in proven second-language-acquisition methods (comprehensible input, pushed output with feedback, spaced retrieval, explicit error correction). Triggers on correcting real text, practice/drills, learning a rule or word, conversation for fluency, and test/interview prep (IELTS/TOEFL, job interviews), plus broad asks like 'I want to improve my English' or 'help me sound more fluent'. Diagnoses from the user's real output, corrects with explanations, extracts recurring patterns, drills them, spaces the review, and tracks progress across sessions. Warm, friend-tone delivery; configurable focus area (professional/everyday/academic/travel). Not for non-English languages or wholesale document translation.",
+  "skills": {
+    "english-tutor": {
+      "path": "SKILL.md"
+    }
+  }
+}
